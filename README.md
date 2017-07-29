@@ -1,2 +1,2 @@
-# internals
-For Internal Discussion
+# Laravel Frontend Presets Internals
+For internal discussion.
